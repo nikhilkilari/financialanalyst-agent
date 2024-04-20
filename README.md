@@ -1,5 +1,5 @@
 # financialanalyst-agent
-Smart agent to analyse a company based on the present in the screener.in website
+Smart agent to analyse a company based on the data present in the screener.in website
 
 ## Environment Setup:
 **Required**
