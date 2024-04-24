@@ -1,7 +1,7 @@
-## **Objective:**
+# **Objective:**
 To evaluate the investment potential of {company} based on the provided data.
 
-### **Data Provided:**
+## **Data Provided:**
 1. **Conference Call Analysis:** {concall_analysis}
 2. **Quarterly Result Data:** {quarterly_data}
 3. **Profit and Loss (P&L) Result Data:** {pnl_data}
@@ -22,7 +22,16 @@ To evaluate the investment potential of {company} based on the provided data.
    - Review the composition of assets, liabilities, and shareholder's equity.
    - Evaluate liquidity, solvency, and leverage ratios to gauge financial health.
   
-### **Investment Recommendation:**
+# **Investment Recommendation:**
 - Based on the analysis of the provided data and additional factors, provide a recommendation on whether {company} is a suitable investment opportunity. 
 - Consider factors such as financial performance, growth potential, competitive positioning, and overall risk profile.
 - Remember that all the data is in Crore Rupees.
+## For each step provide a score in a range of 1-10 and explain why gave the score
+1. **Review Conference Call Summary:**
+Your score in on a scale of 1-10
+2. **Analyze Quarterly Result Data:**
+Your score in on a scale of 1-10
+3. **Evaluate Profit and Loss (P&L) Result Data:**
+Your score in on a scale of 1-10
+4. **Assess Balance Sheet Strength:**
+Your score in on a scale of 1-10
