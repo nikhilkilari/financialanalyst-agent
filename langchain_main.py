@@ -13,13 +13,7 @@ from langchain_core.runnables import RunnableLambda
 from langchain_core.runnables import RunnableParallel
 from operator import itemgetter
 from langchain_core.callbacks import BaseCallbackHandler
-# We can do the same thing with a SQLite cache
-from langchain.cache import SQLiteCache
-from langchain.globals import set_llm_cache
-
-
-set_llm_cache(SQLiteCache(database_path=".langchain.db"))
-
+from langchain_community.chat_models import ChatOllama
 
 from bs4 import BeautifulSoup
 
@@ -31,9 +25,9 @@ class Agent:
         print(f"Company: {self.company}")
 
         #define llm
-        self.llm = AzureChatOpenAI(openai_api_version="2023-07-01-preview",
-                                    azure_deployment="auto-test-turbo",temperature=0.0)
-        
+        #self.llm = AzureChatOpenAI(openai_api_version="2023-07-01-preview",
+        #                            azure_deployment="auto-test-turbo",temperature=0.0)
+        self.llm = ChatOllama(model='llama3:70b-instruct', temperature = 0)
     def get_chain(self, system_prompt_filepath, human_prompt_filepath):
         # Get a basic chain with a prompt, llm and string parser
 
