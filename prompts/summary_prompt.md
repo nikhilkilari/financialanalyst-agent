@@ -35,4 +35,4 @@
             - [List down all the negatives in the format mentioned above. Remember to include all possible negatives if present.]
         ... Rest of the negatives go here
 
-[Conclude with an overall assessment of the conference call, weighing the balance of positives and negatives. Additionally, rate the company's performance on a scale of 1 to 10 for the present quarter, considering factors like adherence to guidance and overall strategic outlook. Be unbiased in you scoring and remember that company will sound postive in making a comeback if there are any negatives, Dont consider such forward looking statements while rating the performance. Dont hesitate to give a 1 rating if the performance is extremely bad]
+[Conclude with an overall assessment of the conference call, weighing the balance of positives and negatives. Be unbiased in you scoring and remember that company will sound postive in making a comeback if there are any negatives, Dont consider such forward looking statements while rating the performance.]

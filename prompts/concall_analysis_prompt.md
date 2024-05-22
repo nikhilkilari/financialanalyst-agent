@@ -21,7 +21,5 @@ Negatives:
    - Negative 2(Mention strength)
    - List down rest of the negatives
 
-Provide your score on a scale of 1 to 10 considering the listed parameters for long term investment in the following format at the end of your response. Consider how consistent the management has been in delivering the guidance across the quarters. Also consider all other required parameters for giving your score. Dont hesitate to give a 1 if the performance is extremely bad.
-Final score: Your score
-
-After the score list the reason for your scoring in bullets. Remember that you are generating output for a markdown file
+Provide your feedback considering the listed parameters for long term investment. Consider how consistent the management has been in delivering the guidance across the quarters.
+Remember that you are generating output for a markdown file
